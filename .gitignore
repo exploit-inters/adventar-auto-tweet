@@ -116,3 +116,6 @@ dmypy.json
 
 # config
 config.py
+
+# db
+*.db
